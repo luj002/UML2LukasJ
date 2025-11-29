@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UML2LukasJ")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ffb7da25de53b3ba10176a972c737709b5631cd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18451e71b274d15adb040befd2c8ccbd022c6248")]
 [assembly: System.Reflection.AssemblyProductAttribute("UML2LukasJ")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UML2LukasJ")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

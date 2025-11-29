@@ -1,12 +1,173 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Git\\Zealand\\Programmering\\Opgaver\\UML2LukasJ\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Git\\UML2LukasJ\\UML2LukasJ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C184FA5-3AD5-466A-BB66-9F199072CED0}|PizzaLibrary\\PizzaLibrary.csproj|c:\\git\\uml2lukasj\\uml2lukasj\\pizzalibrary\\models\\companyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C184FA5-3AD5-466A-BB66-9F199072CED0}|PizzaLibrary\\PizzaLibrary.csproj|solutionrelative:pizzalibrary\\models\\companyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C184FA5-3AD5-466A-BB66-9F199072CED0}|PizzaLibrary\\PizzaLibrary.csproj|c:\\git\\uml2lukasj\\uml2lukasj\\pizzalibrary\\models\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C184FA5-3AD5-466A-BB66-9F199072CED0}|PizzaLibrary\\PizzaLibrary.csproj|solutionrelative:pizzalibrary\\models\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8245ADD8-070B-460A-A0AC-0CA6ED7FF2AC}|ConsoleMenu\\ConsoleMenu.csproj|c:\\git\\uml2lukasj\\uml2lukasj\\consolemenu\\menu\\usermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8245ADD8-070B-460A-A0AC-0CA6ED7FF2AC}|ConsoleMenu\\ConsoleMenu.csproj|solutionrelative:consolemenu\\menu\\usermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8245ADD8-070B-460A-A0AC-0CA6ED7FF2AC}|ConsoleMenu\\ConsoleMenu.csproj|c:\\git\\uml2lukasj\\uml2lukasj\\consolemenu\\controllers\\customers\\addcustomercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8245ADD8-070B-460A-A0AC-0CA6ED7FF2AC}|ConsoleMenu\\ConsoleMenu.csproj|solutionrelative:consolemenu\\controllers\\customers\\addcustomercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C184FA5-3AD5-466A-BB66-9F199072CED0}|PizzaLibrary\\PizzaLibrary.csproj|c:\\git\\uml2lukasj\\uml2lukasj\\pizzalibrary\\models\\vipcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C184FA5-3AD5-466A-BB66-9F199072CED0}|PizzaLibrary\\PizzaLibrary.csproj|solutionrelative:pizzalibrary\\models\\vipcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C184FA5-3AD5-466A-BB66-9F199072CED0}|PizzaLibrary\\PizzaLibrary.csproj|c:\\git\\uml2lukasj\\uml2lukasj\\pizzalibrary\\exceptions\\invaliddiscountexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C184FA5-3AD5-466A-BB66-9F199072CED0}|PizzaLibrary\\PizzaLibrary.csproj|solutionrelative:pizzalibrary\\exceptions\\invaliddiscountexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8245ADD8-070B-460A-A0AC-0CA6ED7FF2AC}|ConsoleMenu\\ConsoleMenu.csproj|c:\\git\\uml2lukasj\\uml2lukasj\\consolemenu\\controllers\\menuitems\\addpizzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8245ADD8-070B-460A-A0AC-0CA6ED7FF2AC}|ConsoleMenu\\ConsoleMenu.csproj|solutionrelative:consolemenu\\controllers\\menuitems\\addpizzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C184FA5-3AD5-466A-BB66-9F199072CED0}|PizzaLibrary\\PizzaLibrary.csproj|c:\\git\\uml2lukasj\\uml2lukasj\\pizzalibrary\\services\\menuitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C184FA5-3AD5-466A-BB66-9F199072CED0}|PizzaLibrary\\PizzaLibrary.csproj|solutionrelative:pizzalibrary\\services\\menuitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C184FA5-3AD5-466A-BB66-9F199072CED0}|PizzaLibrary\\PizzaLibrary.csproj|c:\\git\\uml2lukasj\\uml2lukasj\\pizzalibrary\\services\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C184FA5-3AD5-466A-BB66-9F199072CED0}|PizzaLibrary\\PizzaLibrary.csproj|solutionrelative:pizzalibrary\\services\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompanyInfo.cs",
+              "DocumentMoniker": "C:\\Git\\UML2LukasJ\\UML2LukasJ\\PizzaLibrary\\Models\\CompanyInfo.cs",
+              "RelativeDocumentMoniker": "PizzaLibrary\\Models\\CompanyInfo.cs",
+              "ToolTip": "C:\\Git\\UML2LukasJ\\UML2LukasJ\\PizzaLibrary\\Models\\CompanyInfo.cs",
+              "RelativeToolTip": "PizzaLibrary\\Models\\CompanyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T18:45:32.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Beverage.cs",
+              "DocumentMoniker": "C:\\Git\\UML2LukasJ\\UML2LukasJ\\PizzaLibrary\\Models\\Beverage.cs",
+              "RelativeDocumentMoniker": "PizzaLibrary\\Models\\Beverage.cs",
+              "ToolTip": "C:\\Git\\UML2LukasJ\\UML2LukasJ\\PizzaLibrary\\Models\\Beverage.cs",
+              "RelativeToolTip": "PizzaLibrary\\Models\\Beverage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T18:45:19.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InvalidDiscountException.cs",
+              "DocumentMoniker": "C:\\Git\\UML2LukasJ\\UML2LukasJ\\PizzaLibrary\\Exceptions\\InvalidDiscountException.cs",
+              "RelativeDocumentMoniker": "PizzaLibrary\\Exceptions\\InvalidDiscountException.cs",
+              "ToolTip": "C:\\Git\\UML2LukasJ\\UML2LukasJ\\PizzaLibrary\\Exceptions\\InvalidDiscountException.cs",
+              "RelativeToolTip": "PizzaLibrary\\Exceptions\\InvalidDiscountException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T18:39:14.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VIPCustomer.cs",
+              "DocumentMoniker": "C:\\Git\\UML2LukasJ\\UML2LukasJ\\PizzaLibrary\\Models\\VIPCustomer.cs",
+              "RelativeDocumentMoniker": "PizzaLibrary\\Models\\VIPCustomer.cs",
+              "ToolTip": "C:\\Git\\UML2LukasJ\\UML2LukasJ\\PizzaLibrary\\Models\\VIPCustomer.cs",
+              "RelativeToolTip": "PizzaLibrary\\Models\\VIPCustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T18:38:28.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddCustomerController.cs",
+              "DocumentMoniker": "C:\\Git\\UML2LukasJ\\UML2LukasJ\\ConsoleMenu\\Controllers\\Customers\\AddCustomerController.cs",
+              "RelativeDocumentMoniker": "ConsoleMenu\\Controllers\\Customers\\AddCustomerController.cs",
+              "ToolTip": "C:\\Git\\UML2LukasJ\\UML2LukasJ\\ConsoleMenu\\Controllers\\Customers\\AddCustomerController.cs",
+              "RelativeToolTip": "ConsoleMenu\\Controllers\\Customers\\AddCustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T18:37:32.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddPizzaController.cs",
+              "DocumentMoniker": "C:\\Git\\UML2LukasJ\\UML2LukasJ\\ConsoleMenu\\Controllers\\MenuItems\\AddPizzaController.cs",
+              "RelativeDocumentMoniker": "ConsoleMenu\\Controllers\\MenuItems\\AddPizzaController.cs",
+              "ToolTip": "C:\\Git\\UML2LukasJ\\UML2LukasJ\\ConsoleMenu\\Controllers\\MenuItems\\AddPizzaController.cs",
+              "RelativeToolTip": "ConsoleMenu\\Controllers\\MenuItems\\AddPizzaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T18:37:29.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserMenu.cs",
+              "DocumentMoniker": "C:\\Git\\UML2LukasJ\\UML2LukasJ\\ConsoleMenu\\Menu\\UserMenu.cs",
+              "RelativeDocumentMoniker": "ConsoleMenu\\Menu\\UserMenu.cs",
+              "ToolTip": "C:\\Git\\UML2LukasJ\\UML2LukasJ\\ConsoleMenu\\Menu\\UserMenu.cs",
+              "RelativeToolTip": "ConsoleMenu\\Menu\\UserMenu.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T18:37:22.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MenuItemRepository.cs",
+              "DocumentMoniker": "C:\\Git\\UML2LukasJ\\UML2LukasJ\\PizzaLibrary\\Services\\MenuItemRepository.cs",
+              "RelativeDocumentMoniker": "PizzaLibrary\\Services\\MenuItemRepository.cs",
+              "ToolTip": "C:\\Git\\UML2LukasJ\\UML2LukasJ\\PizzaLibrary\\Services\\MenuItemRepository.cs",
+              "RelativeToolTip": "PizzaLibrary\\Services\\MenuItemRepository.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T18:30:39.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Git\\UML2LukasJ\\UML2LukasJ\\PizzaLibrary\\Services\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "PizzaLibrary\\Services\\CustomerRepository.cs",
+              "ToolTip": "C:\\Git\\UML2LukasJ\\UML2LukasJ\\PizzaLibrary\\Services\\CustomerRepository.cs",
+              "RelativeToolTip": "PizzaLibrary\\Services\\CustomerRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T18:30:34.98Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

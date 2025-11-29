@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Git\\Zealand\\Programmering\\Opgaver\\UML2LukasJ\\UML2LukasJ\\UML2LukasJ.csproj": {}
+    "C:\\Git\\UML2LukasJ\\UML2LukasJ\\UML2LukasJ\\UML2LukasJ.csproj": {}
   },
   "projects": {
-    "C:\\Git\\Zealand\\Programmering\\Opgaver\\UML2LukasJ\\PizzaLibrary\\PizzaLibrary.csproj": {
+    "C:\\Git\\UML2LukasJ\\UML2LukasJ\\PizzaLibrary\\PizzaLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\Zealand\\Programmering\\Opgaver\\UML2LukasJ\\PizzaLibrary\\PizzaLibrary.csproj",
+        "projectUniqueName": "C:\\Git\\UML2LukasJ\\UML2LukasJ\\PizzaLibrary\\PizzaLibrary.csproj",
         "projectName": "PizzaLibrary",
-        "projectPath": "C:\\Git\\Zealand\\Programmering\\Opgaver\\UML2LukasJ\\PizzaLibrary\\PizzaLibrary.csproj",
+        "projectPath": "C:\\Git\\UML2LukasJ\\UML2LukasJ\\PizzaLibrary\\PizzaLibrary.csproj",
         "packagesPath": "C:\\Users\\lukas\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\Zealand\\Programmering\\Opgaver\\UML2LukasJ\\PizzaLibrary\\obj\\",
+        "outputPath": "C:\\Git\\UML2LukasJ\\UML2LukasJ\\PizzaLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Git\\Zealand\\Programmering\\Opgaver\\UML2LukasJ\\UML2LukasJ\\UML2LukasJ.csproj": {
+    "C:\\Git\\UML2LukasJ\\UML2LukasJ\\UML2LukasJ\\UML2LukasJ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\Zealand\\Programmering\\Opgaver\\UML2LukasJ\\UML2LukasJ\\UML2LukasJ.csproj",
+        "projectUniqueName": "C:\\Git\\UML2LukasJ\\UML2LukasJ\\UML2LukasJ\\UML2LukasJ.csproj",
         "projectName": "UML2LukasJ",
-        "projectPath": "C:\\Git\\Zealand\\Programmering\\Opgaver\\UML2LukasJ\\UML2LukasJ\\UML2LukasJ.csproj",
+        "projectPath": "C:\\Git\\UML2LukasJ\\UML2LukasJ\\UML2LukasJ\\UML2LukasJ.csproj",
         "packagesPath": "C:\\Users\\lukas\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\Zealand\\Programmering\\Opgaver\\UML2LukasJ\\UML2LukasJ\\obj\\",
+        "outputPath": "C:\\Git\\UML2LukasJ\\UML2LukasJ\\UML2LukasJ\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Git\\Zealand\\Programmering\\Opgaver\\UML2LukasJ\\PizzaLibrary\\PizzaLibrary.csproj": {
-                "projectPath": "C:\\Git\\Zealand\\Programmering\\Opgaver\\UML2LukasJ\\PizzaLibrary\\PizzaLibrary.csproj"
+              "C:\\Git\\UML2LukasJ\\UML2LukasJ\\PizzaLibrary\\PizzaLibrary.csproj": {
+                "projectPath": "C:\\Git\\UML2LukasJ\\UML2LukasJ\\PizzaLibrary\\PizzaLibrary.csproj"
               }
             }
           }

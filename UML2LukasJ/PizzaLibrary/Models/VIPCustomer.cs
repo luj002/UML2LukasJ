@@ -5,7 +5,7 @@
     {
         if (discountPercentage < 1 || discountPercentage > 25)
         {
-            throw new ArgumentOutOfRangeException("discountPercentage", "Discount must be between 1% and 25%");
+            throw new InvalidDiscountException("discountPercentage", "Discount must be between 1% and 25%");
         }
         ClubMember = true;
         Discount = discountPercentage;

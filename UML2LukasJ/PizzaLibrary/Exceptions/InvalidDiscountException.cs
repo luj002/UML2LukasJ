@@ -1,6 +1,6 @@
-﻿public class InvalidDiscountException : Exception
+﻿public class InvalidDiscountException : ArgumentOutOfRangeException
 {
-    public InvalidDiscountException(string message) : base(message)
+    public InvalidDiscountException(string argument, string message) : base(argument, message)
     {
     }
 }
